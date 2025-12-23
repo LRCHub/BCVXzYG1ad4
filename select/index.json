@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "First Sight",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-23T07:01:55.305367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "At First Sight",
+      "artist": "Kate Havnevik",
+      "has_synced": false,
+      "path": "select/01_At_First_Sight_Kate_Havnevik.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love At First Sight",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/02_Love_At_First_Sight_XTC.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flight At First Sight/Advanced",
+      "artist": "Kid Cudi feat. Pharrell Williams",
+      "has_synced": true,
+      "path": "select/03_Flight_At_First_Sight_Advanced_Kid_Cudi_feat._Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flight at First Sight / Advanced (feat. Pharrell Williams)",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/04_Flight_at_First_Sight___Advanced_(feat._Pharrell_Williams)_Kid_Cudi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love At First Sight",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/05_Love_At_First_Sight_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love At First Sight - Kid Creme Vocal Dub",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/06_Love_At_First_Sight_-_Kid_Creme_Vocal_Dub_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love At First Sight [Kid Creme Vocal Dub]",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/07_Love_At_First_Sight_[Kid_Creme_Vocal_Dub]_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love at First Sight / Can't Beat the Feeling - Live from Aphrodite / Les Folies",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/08_Love_at_First_Sight___Can't_Beat_the_Feeling_-_Live_from_Aphrodite___Les_Folies_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love at First Sight \u0000 Can’t Beat the Feeling",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/09_Love_at_First_Sight_\u0000_Can’t_Beat_the_Feeling_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love at First Sight - Live",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/10_Love_at_First_Sight_-_Live_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love at first sight",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/11_Love_at_first_sight_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love At First Sight (Ruff & Jam US Radio Mix)",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/12_Love_At_First_Sight_(Ruff_&_Jam_US_Radio_Mix)_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love at first sight [Ruff & jam us radio mix]",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/13_Love_at_first_sight_[Ruff_&_jam_us_radio_mix]_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love at First Sight (The Scumfrog's Beauty & The Beast vocal edit)",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/14_Love_at_First_Sight_(The_Scumfrog's_Beauty_&_The_Beast_vocal_edit)_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love At First Sight",
+      "artist": "Styx",
+      "has_synced": false,
+      "path": "select/15_Love_At_First_Sight_Styx.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "First Sight",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_First_Sight_UVERworld.txt"
+    }
+  ]
+}
